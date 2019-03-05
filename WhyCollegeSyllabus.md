@@ -5,7 +5,7 @@
 + Swarthmore College
 + Spring 2019, Monday, 1:15-4 pm
 + Kohlberg 116
-+ Professor Burke office hours:
++ Professor Burke office hours: T 2-4. Parrish W201, 9-12 Trotter 206, Th 9-12, Trotter 206
 + Professor Buurma office hours: W 2-4 pm, LPAC 302
 
 This writing-intensive first-year seminar asks why we go to college - as individuals and as social groups. Why does college matter, and to whom? Drawing on evidence including memoirs, fiction, opinion essays, demographic data, sociological writing, course catalogs and syllabi, and much more, we will example how access and financial aid, curricular decisions, diversity, inequality, governance, and knowledge production play out in the context of liberal arts education.
