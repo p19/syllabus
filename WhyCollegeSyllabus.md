@@ -132,12 +132,8 @@ Reading
 + Richard Powers, *Galetea 2.2*
 + Ben Schmidt, [Should I Major in the Humanities?](https://www.theatlantic.com/ideas/archive/2018/08/the-humanities-face-a-crisisof-confidence/567565/)
 + tba another short dataset-based essay
-+ Supercut: Professors in the movies
 
-Writing:
-+ Dataset essay, draft 1 due
-
-Workshop: dataset essay workshop
+Workshop: writing about data
 
 #### Week 10 (March 25, 2019): Cost, debt, FAFSA
 
@@ -151,8 +147,9 @@ Reading
 + James V. Koch,[“No College Kid Needs a Water Park to Study”](https://www.nytimes.com/2018/01/09/opinion/trustees-tuition-lazy-rivers.html)
 
 Writing:
-+ final dataset essay due
-+ historical syllabus  analysis notes and outline
++ Dataset essay, draft 1 due
+
+Workshop: dataset essay workshop
 
 
 #### Week 11 (April 1, 2019): Governance and Community: To Whom Does a College Belong?
@@ -166,7 +163,7 @@ Reading
 + Frederick Van de Water, “The Saturnalia of College Reunions”, Harper’s, 1929
 
 Writing:
-+ historical syllabus analysis draft 2
++ Dataset essay, final draft due
 + Op Ed writing workshop
 
 #### Week 12 (April 8, 2019): Putting it all together I
@@ -187,7 +184,7 @@ Reading:
 
 Writing
 + Op Ed final draft due
-+ Manifesto draft 1
++ Manifesto draft 1 due
 
 Workshop: Manifesto work
 
