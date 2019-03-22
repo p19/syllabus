@@ -141,7 +141,7 @@ Lecture: Why Is the Tuition So Damn High?
 
 Reading
 + TBA
-+ [The Undercommons: Fugitive Planning and Black Study](http://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf)
++ Chapter 4: Debt and Study in [The Undercommons: Fugitive Planning and Black Study](http://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf)
 + Ryann Liebenthal, [“The Incredible Rage-Inducing Inside Story of America’s Student Debt Machine”](https://www.motherjones.com/politics/2018/08/debt-student-loan-forgiveness-betsy-devos-education-department-fedloan/)
 + Nate Kreuter,[“Customer Mentality”](https://www.insidehighered.com/views/2014/02/27/essay-critiques-how-student-customer-idea-erodes-key-values-higher-education)
 + James V. Koch,[“No College Kid Needs a Water Park to Study”](https://www.nytimes.com/2018/01/09/opinion/trustees-tuition-lazy-rivers.html)
