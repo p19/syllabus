@@ -179,25 +179,33 @@ Workshop: Op Ed revision
 #### Week 13 (April 15, 2019): Putting it all together II
 
 Reading:
-+ Zadie Smith, *On Beauty*
++ Zadie Smith, *On Beauty*, first half
 
 Writing
 + Op Ed final draft due
-+ Manifesto draft 1 due
 
 Workshop: Manifesto work
 
 #### Week 14 (April 22, 2019): Putting it all together III
 
 Reading:
-+ Lev Grossman, *The Magicians*
++ Zadie Smith, *On Beauty*, first half
 
-Writing
-+ Manifesto draft 2 due
+Writing: 
++ Manifesto draft 1 due
 
 Workshop: Manifesto work
 
 #### Week 15: April 29, 2019
+
+Reading: 
++ Lev Grossman, *The Magicians*
+
+In class: 
++ College Redesign
+
+Writing:
++ Manifesto draft 2 due
 
 Wrap-up and final presentations
 
